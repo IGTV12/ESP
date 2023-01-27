@@ -1,4 +1,3 @@
---dont do anything free open source silent aim code
 local function GetService(Name)
     return game:GetService(Name)
 end
